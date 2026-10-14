@@ -1,0 +1,33 @@
+body {
+  margin: 20px;
+  font-family: Verdana;
+}
+.profile-img {
+  width: 150px;
+}
+
+.card {
+  border: 2px dotted cyan;
+  padding: 20px;
+  display: flex;
+  color: #2b2839;
+  background-color: #ddebf8;
+  width: 400px;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card-content {
+  margin-left: 20px;
+}
+.italic {
+  font-style: italic;
+  text-align: center;
+}
+.follow {
+  color: rgb(255, 0, 0);
+}
+.line {
+  text-align: center;
+  text-decoration: bold;
+}
